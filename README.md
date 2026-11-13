@@ -1,4 +1,9 @@
-# Açaí da Pepa — demonstração visual
-Landing page responsiva em HTML, CSS e JavaScript, criada como proposta não oficial. Sem produtos ou preços fictícios, links públicos para Instagram/WhatsApp, filtros de vitrine e layout de apresentação.
+# Açaí da Pepa — proposta de vitrine digital
 
-**Atenção:** as fotos desta versão online são ilustrativas; antes da publicação oficial, substituir por fotos próprias autorizadas. O logo SVG é um elemento temporário de apresentação, com busca do avatar público original para a navegação. Não há funcionalidade de checkout.
+Demonstração independente em HTML, CSS e JavaScript para apresentar a marca em uma vitrine responsiva. Usa a identidade visual e recortes de imagens do perfil de Instagram compartilhado na conversa.
+
+- **Contato:** links diretos para o WhatsApp público `https://wa.me/message/NUUQIYH4ATHNA1` e o Instagram `@acai_dapepa`.
+- **Sem invenções:** não informa preços, horários, frete, ingredientes ou disponibilidade não confirmados.
+- **Não oficial:** aguardaria autorização da marca e fotos em resolução original para uso definitivo.
+- **Desenvolvimento:** `python3 -m http.server 8000` nesta pasta, abrir http://localhost:8000. Sem instalação de pacotes.
+- **Hospedagem:** GitHub + Vercel, por atualização da branch principal.
