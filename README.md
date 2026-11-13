@@ -1,9 +1,10 @@
-# Açaí da Pepa — proposta de vitrine digital
+# Açaí da Pepa — conceito cinematográfico
 
-Demonstração independente em HTML, CSS e JavaScript para apresentar a marca em uma vitrine responsiva. Usa a identidade visual e recortes de imagens do perfil de Instagram compartilhado na conversa.
+Demonstração não oficial de vitrine digital. Entrada cinematográfica real (CSS, sem bloqueio de renderização), imagens promocionais geradas especialmente para este conceito, logotipo original extraído da referência enviada, vitrines sem preços, WhatsApp e Instagram oficiais do perfil informado.
 
-- **Contato:** links diretos para o WhatsApp público `https://wa.me/message/NUUQIYH4ATHNA1` e o Instagram `@acai_dapepa`.
-- **Sem invenções:** não informa preços, horários, frete, ingredientes ou disponibilidade não confirmados.
-- **Não oficial:** aguardaria autorização da marca e fotos em resolução original para uso definitivo.
-- **Desenvolvimento:** `python3 -m http.server 8000` nesta pasta, abrir http://localhost:8000. Sem instalação de pacotes.
-- **Hospedagem:** GitHub + Vercel, por atualização da branch principal.
+- `index.html` — conteúdo, SEO e navegação.
+- `styles.css` — direção de arte responsiva e animações.
+- `app.js` — controle de entrada/skip/replay, menu, revelações e microparallax.
+- `assets/*.webp` — imagens conceituais e logotipo (a produção final deve receber artes e fotos autorizadas em alta resolução).
+
+**Importante:** materiais gerados por IA não são retratos documentais dos produtos realmente comercializados. A visualização deve ser apresentada como conceito, não como site oficial ou cardápio definitivo.
